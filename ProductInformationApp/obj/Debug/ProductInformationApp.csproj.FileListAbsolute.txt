@@ -1,0 +1,9 @@
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.exe.config
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.csprojResolveAssemblyReference.cache
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.ProductInfoUI.resources
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.Properties.Resources.resources
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.csproj.GenerateResource.Cache
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.exe
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\bin\Debug\ProductInformationApp.pdb
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.exe
+E:\SEIP Training\HomePractice\ProductInformationApp\ProductInformationApp\obj\Debug\ProductInformationApp.pdb
